@@ -1,5 +1,6 @@
 # AnyKernel3 Ramdisk Mod Script
 # osm0sis @ xda-developers
+# by KGVarunkanth
 
 ## AnyKernel setup
 # begin properties
