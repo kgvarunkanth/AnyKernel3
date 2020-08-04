@@ -1,5 +1,6 @@
 # AnyKernel3 Ramdisk Mod Script
 # osm0sis @ xda-developers
+# by KGVarunkanth
 
 ## AnyKernel setup
 # begin properties
@@ -15,7 +16,7 @@ device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=10.0
 supported.patchlevels=
 '; } # end properties
 
